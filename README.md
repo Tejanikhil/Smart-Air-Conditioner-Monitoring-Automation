@@ -1,4 +1,4 @@
-# Smart Air Conditioner Monitoring and Automation System
+# Smart Air Conditioner Automation System
 
 Smart air conditioners are revolutionizing home comfort with their advanced features and embedded sensors. These sensors, including infrared, temperature, and accelerometer sensors, enable smart air conditioners to analyze surroundings and adjust settings accordingly. Additionally, modern air conditioners integrate with mobile devices and wearables for personalized scheduling.
 
